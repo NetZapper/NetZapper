@@ -1,4 +1,13 @@
 #!/usr/bin/python -tt
+"""
+Tool developed by:
+	1. Deep Nigam
+	2. Yogesh Ingale
+	3. Kavita Kumari
+	4. Sandeep Kumar Shukla
+"""
+
+
 import socket
 from scapy.all import *
 import errno
